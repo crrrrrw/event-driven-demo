@@ -4,7 +4,7 @@
 - 会在项目中使用事件驱动(spring event和 eventbus)
 - spring event和 eventbus 的异同点
 
-通过博客看更清晰：
+通过博客看更清晰：https://www.chenruiwen.cn/event-driven/event-driven-design-and-demo
 
 ## QucikStart
 
